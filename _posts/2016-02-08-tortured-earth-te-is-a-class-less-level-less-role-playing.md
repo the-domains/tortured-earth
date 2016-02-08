@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-08T22:11:06.076Z'
-dateModified: '2016-02-08T22:10:49.431Z'
+datePublished: '2016-02-08T22:18:51.207Z'
+dateModified: '2016-02-08T22:18:43.802Z'
 title: Tortured Earth Role Playing Game
 author: []
 sourcePath: _posts/2016-02-08-tortured-earth-te-is-a-class-less-level-less-role-playing.md
