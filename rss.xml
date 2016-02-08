@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Tortured Earth]]></title>
         <description><![CDATA[Tortured Earth]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/tortured-earth/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 08 Feb 2016 21:52:04 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 08 Feb 2016 21:52:35 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/tortured-earth/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Tortured Earth (TE) is a class-less, level-less role playing game set in an apocalyptic future. The system is designed to allow the transition of characters among science fiction, fantasy and horror settings in a seamless manner without loss of skills, assigned points, or equipment. Without the restriction of class, players are free to create unique custom characters without overpowering or under mining the established story board.]]></title>
+            <description><![CDATA[<article><h1>Tortured Earth (TE) is a class-less, level-less role playing game set in an apocalyptic future. The system is designed to allow the transition of characters among science fiction, fantasy and horror settings in a seamless manner without loss of skills, assigned points, or equipment. Without the restriction of class, players are free to create unique custom characters without overpowering or under mining the established story board.</h1><p>Tortured Earth Role Playing Game</p></article>]]></description>
+            <link>https://thegrid.ai/tortured-earth/tortured-earth-te-is-a-class-less-level-less-role-playing/index.html</link>
+            <guid isPermaLink="false">0f9f146b-9aa6-41bd-94ca-5cbeb9c0bcef</guid>
+            <pubDate>Mon, 08 Feb 2016 21:51:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>The Begin</p>]]></description>
-            <link>undefined342865ff-67c5-4efe-bd77-415d2615a6d5/index.html</link>
+            <link>https://thegrid.ai/tortured-earth/342865ff-67c5-4efe-bd77-415d2615a6d5/index.html</link>
             <guid isPermaLink="false">342865ff-67c5-4efe-bd77-415d2615a6d5</guid>
             <pubDate>Mon, 08 Feb 2016 21:51:56 GMT</pubDate>
         </item>
